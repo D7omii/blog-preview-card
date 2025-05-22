@@ -110,7 +110,7 @@ body {
 }
 .content h2 {
     font-size: var(--text-preset-1);
-    font-weight: bold;
+    font-weight: 800;
     color: var(--gray-950);
     margin: 0;
     transition: 0.4s;
